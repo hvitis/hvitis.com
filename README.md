@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.hvitis.dev"><img src="https://github.com/hvitis/hvitis.com/blob/main/moving_page.svg" alt="Hvitis" width="200"></a>
   <br>
-  [Hvitis.dev](https://hvitis.dev)
+  <a href="https://www.hvitis.dev">Hvitis.dev</a> 
   <br>
 </h1>
 
