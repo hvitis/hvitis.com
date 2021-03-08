@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.hvitis.dev"><img src="https://github.com/hvitis/hvitis.com/blob/main/moving_page.svg" alt="Hvitis" width="200"></a>
   <br>
-  Hvitis.dev
+  [Hvitis.dev](https://hvitis.dev)
   <br>
 </h1>
 
@@ -27,6 +27,5 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [hvitis.dev](https://hvitis.dev) &nbsp;&middot;&nbsp;
+> Twitter [@me](https://twitter.com/hvitis_)
