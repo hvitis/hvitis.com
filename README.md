@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">This page has been moved.</h4>
+<h4 align="center">This page has been moved from hvitis.com to <a href="https://www.hvitis.dev">hvitis.dev</a> .</h4>
 
 <p align="center">
   <a href="https://saythanks.io/to/amitmerchant1990">
